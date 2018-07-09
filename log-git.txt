@@ -1,0 +1,22 @@
+ cd /c/Users/user1/Desktop/Myapp
+
+git config --global user.name "bhupendrav008"
+git config --global user.email bhupendra6130@gmail.com
+
+
+
+
+git config --list
+
+logout
+git config --unset-all --global user.name
+git config --unset-all --global user.email
+
+
+
+
+
+ git add log-git.txt
+ git status
+
+
